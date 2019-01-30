@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Node2
+comment1.params=newData\ linkValue
+comment1.target=Node2(java.lang.Object,\ Node2)
+comment2.params=
+comment2.target=java.lang.Object\ getData()
+comment3.params=
+comment3.target=Node2\ getLink()
+comment4.params=y
+comment4.target=void\ setData(java.lang.Object)
+comment5.params=linkValue
+comment5.target=void\ setLink(Node2)
+numComments=6
